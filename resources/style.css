@@ -1,0 +1,45 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+#title {
+    text-align: center;
+    color:darkorange;
+}
+
+h2 {
+    text-align: center;
+    color: goldenrod;
+}
+
+table {
+    border: 2px dotted orangered;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: orange;
+}
+
+#property {
+    padding: 20px;
+}
+
+#description {
+    padding: 100px;
+}
+
+#syntax {
+    padding: 200px;
+}
+
+td{
+    border-top: 2px dotted orangered;
+}
+
+.code {
+    font-family: monospace, Arial, sans-serif;
+    background-color: silver;
+}
